@@ -5,16 +5,19 @@ A Factorio mod that provides unlimited chests with an easy-to-use item selector 
 ## Features
 
 ### Unlimited Item Source
+
 - **Infinite Supply**: Each UnlChest provides an unlimited supply of a single selected item type
 - **Auto-Refill**: Automatically refills to a full stack every 10 ticks (0.16 seconds)
 - **Stack-Based**: Always maintains a full stack based on the item's stack size
 
 ### Intuitive Item Selection
+
 - **Item Selector GUI**: Features a clean, draggable interface for choosing items
 - **Unichest-Style Selection**: Familiar choose-elem-button interface for quick item selection
 - **Easy Access**: Simply open the chest to select or change the item type
 
 ### Factorio 2.0 Compatible
+
 - **Drag Support**: Fully draggable GUI with titlebar drag functionality
 - **ESC Key Support**: Close the interface with the ESC key
 - **Modern UI**: Built using `player.gui.screen` for proper Factorio 2.0 integration
@@ -51,6 +54,7 @@ A Factorio mod that provides unlimited chests with an easy-to-use item selector 
 ## Changelog
 
 ### v2.3.5
+
 - Fixed drag functionality for Factorio 2.0
 - Fixed ESC key closing behavior
 - Migrated GUI to `player.gui.screen`
