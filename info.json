@@ -1,0 +1,11 @@
+{
+  "name": "UnlChest",
+  "version": "2.3.5",
+  "title": "UnlChest (Unlimited Chest)",
+  "author": "KrisztainLukacs",
+  "description": "Unlimited chest with Unichest-style item selector. Drag/ESC fixed for Factorio 2.0.",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0"
+  ]
+}
